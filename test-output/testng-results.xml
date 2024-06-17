@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Name:balaji]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-17T12:07:13 IST" name="Default suite" finished-at="2024-06-17T12:07:21 IST" duration-ms="8630">
+    <groups>
+    </groups>
+    <test started-at="2024-06-17T12:07:13 IST" name="Default test" finished-at="2024-06-17T12:07:21 IST" duration-ms="8630">
+      <class name="TeacherLoginTest">
+        <test-method signature="adminLogin()[pri:0, instance:TeacherLoginTest@6572421]" started-at="2024-06-17T12:07:13 IST" name="adminLogin" finished-at="2024-06-17T12:07:21 IST" duration-ms="8544" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Name:balaji]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- adminLogin -->
+      </class> <!-- TeacherLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
